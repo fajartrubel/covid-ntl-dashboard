@@ -1,0 +1,13 @@
+earthengine-api
+geemap
+geopandas
+joblib
+matplotlib
+numpy
+pandas
+plotly
+requests
+scipy
+seaborn
+scikit-learn
+voila
